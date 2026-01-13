@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=M.%20Al-Mashdli&fontSize=70&animation=fadeIn&fontAlignY=35" />
-  
-  <h1>🛡️ Cyber-Physical Systems Engineer</h1>
-  <p align="center">
-    <b>Software Mastery | Hardware Innovation | AI & Robotics</b>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003566&height=200&section=header&text=Mohammed%20Al-Mashdli&fontSize=50&animation=fadeIn" />
+
+  <h3>🎓 Computer Engineering Student & Embedded Systems Enthusiast</h3>
+  <p>Building the bridge between Software and Hardware</p>
 </div>
 
 ---
