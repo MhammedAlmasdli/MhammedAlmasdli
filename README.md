@@ -54,9 +54,4 @@
 </div>
 
 ---
-
-
-<br />
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
 </p>
