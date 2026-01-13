@@ -49,9 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhammedAlmasdli&layout=compact&theme=vision-friendly-dark&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhammedAlmasdli&theme=vision-friendly-dark&hide_border=true" width="100%" />
-</div>
 
 ---
 </p>
