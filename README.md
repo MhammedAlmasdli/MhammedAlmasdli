@@ -41,14 +41,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" />
 </p>
 
----
-
-### 📊 Engineering Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhammedAlmasdli&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhammedAlmasdli&layout=compact&theme=vision-friendly-dark&hide_border=true" width="48%" />
-</div>
-
 
 ---
 </p>
