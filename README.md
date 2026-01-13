@@ -1,75 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=Mohammed%20Al-Mashdli&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003566&height=200&section=header&text=Mohammed%20Al-Mashdli&fontSize=50&animation=fadeIn" />
 
-  <h1>🚀 Computer Engineering Student</h1>
-  
-  <p>
-    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  </p>
+  <h3>🎓 Computer Engineering Student & Embedded Systems Enthusiast</h3>
+  <p>Building the bridge between Software and Hardware</p>
 </div>
 
 ---
 
-### 📋 Brief About Me
-- 🎓 **Student:** Computer Engineering.
-- 💻 **Experience:** Building apps with C#, Java, and Web Technologies.
-- 🎯 **Current Goal:** Mastering Database Management and AI.
+### 🖋️ About Me
+* 🏛️ **Student:** Computer Engineering student with a passion for innovation.
+* ⚙️ **Focus:** Proficient in high-level programming and hardware interfacing.
+* 🚀 **Current Projects:** Exploring the power of Raspberry Pi 5 and Arduino for IoT solutions.
 
 ---
 
-### 🛠️ My Toolbox (Tech Stack)
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+### 🛠️ My Technical Arsenal
 
----
-
-### ⚡ GitHub Activities
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MhammedAlmasdli&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhammedAlmasdli&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,py,js,cpp,c&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MhammedAlmasdli&theme=vision-friendly-dark" width="100%" />
+#### 🔌 Hardware & Embedded Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microcontrollers-FFB703?style=for-the-badge&logo=circuitpython&logoColor=black" />
+</p>
+
+#### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,visualstudio&theme=dark" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="mailto:almashdli121@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohammed-abdulaziz-omar-al-mashdli-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
+### 📈 GitHub Insights
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhmadefendi/mhmadefendi/main/assets/line-blue.gif" width="100%">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MhammedAlmasdli&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhammedAlmasdli&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhammedAlmasdli&theme=tokyonight&hide_border=true" width="100%" />
 </div>
+
+---
+
+### 🌐 Let's Connect
+<div align="center">
+  <a href="mailto:almashdli121@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohammed-abdulaziz-omar-al-mashdli-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
