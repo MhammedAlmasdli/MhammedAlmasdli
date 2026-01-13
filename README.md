@@ -1,53 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003566&height=200&section=header&text=Mohammed%20Al-Mashdli&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=003566&height=150&section=header&text=Mohammed%20Al-Mashdli&fontSize=45&animation=fadeIn" />
 
-  <h3>🎓 Computer Engineering Student & Embedded Systems Enthusiast</h3>
-  <p>Building the bridge between Software and Hardware</p>
+  <h2>🎓 Computer Engineering Student</h2>
+  <p><strong>Specializing in Embedded Systems & Software Architecture</strong></p>
 </div>
 
 ---
 
-### 🖋️ About Me
-* 🏛️ **Student:** Computer Engineering student with a passion for innovation.
-* ⚙️ **Focus:** Proficient in high-level programming and hardware interfacing.
-* 🚀 **Current Projects:** Exploring the power of Raspberry Pi 5 and Arduino for IoT solutions.
+### 🖋️ Professional Profile
+* 🎓 **Academic:** Computer Engineering student dedicated to high-performance computing.
+* ⚙️ **Embedded Systems:** Expert user of **Raspberry Pi 5** and **Arduino** for large-scale hardware projects.
+* 🚀 **Experience:** Developing complex solutions integrating software with physical hardware.
 
 ---
 
-### 🛠️ My Technical Arsenal
-
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,py,js,cpp,c&theme=dark" />
-</p>
-
-#### 🔌 Hardware & Embedded Systems
+### 🛠️ Hardware & Electronics Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino_Pro-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Microcontrollers-FFB703?style=for-the-badge&logo=circuitpython&logoColor=black" />
-</p>
-
-#### 🗄️ Databases & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,visualstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/IoT_Solutions-00509d?style=for-the-badge&logo=internet-of-things&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Insights
+### 💻 Software Development Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,py,cpp,c,js,mysql,git,github,vscode,visualstudio&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Performance
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MhammedAlmasdli&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhammedAlmasdli&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhammedAlmasdli&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MhammedAlmasdli&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhammedAlmasdli&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -63,6 +50,6 @@
 </div>
 
 <br />
-<p align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+</div>
